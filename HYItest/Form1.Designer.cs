@@ -67,6 +67,7 @@
             this.serialPort2 = new System.IO.Ports.SerialPort(this.components);
             this.comboBox2 = new System.Windows.Forms.ComboBox();
             this.label11 = new System.Windows.Forms.Label();
+            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -416,12 +417,21 @@
             this.label11.TabIndex = 35;
             this.label11.Text = "Baud Rate:";
             // 
+            // richTextBox1
+            // 
+            this.richTextBox1.Location = new System.Drawing.Point(450, 126);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.Size = new System.Drawing.Size(206, 244);
+            this.richTextBox1.TabIndex = 36;
+            this.richTextBox1.Text = "";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.comboBox2);
             this.Controls.Add(this.label13);
@@ -508,6 +518,7 @@
         private System.IO.Ports.SerialPort serialPort2;
         private System.Windows.Forms.ComboBox comboBox2;
         private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.RichTextBox richTextBox1;
     }
 }
 

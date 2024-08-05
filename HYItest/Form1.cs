@@ -56,8 +56,31 @@ namespace HYItest
             //status.Text = a[12];
             //crc.Text = a[13];
             byte[] buffer = System.Text.Encoding.ASCII.GetBytes(data);
-            int[] ints = new int[]
 
+            byte[] bytes = new byte[10];
+            float[] floats = new float[17];
+            for(int i=0; i<6; i++)
+            {
+                bytes[i] = (byte) data[i];
+            }
+            for(int j=0; j<68; j++)
+            {
+                floats[j] = BitConverter.ToSingle(buffer, 6 + (j * 4));
+            }
+            for(int t=0; t < 4; t++)
+            {
+                bytes[t + 6] = (byte)data[t + 74];
+            }
+            foreach (var x in floats)
+            {
+                richTextBox1.Text = richTextBox1.Text + x.ToString();
+                richTextBox1.Text = richTextBox1.Text + "\n";
+            }
+            foreach (var z in bytes)
+            {
+                richTextBox1.Text = richTextBox1.Text + z.ToString();
+                richTextBox1.Text = richTextBox1.Text + "\n";
+            }
         }
 
         private void label1_Click(object sender, EventArgs e)
