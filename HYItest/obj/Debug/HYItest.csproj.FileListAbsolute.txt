@@ -1,0 +1,10 @@
+C:\Users\xyz\source\repos\HYItest\HYItest\bin\Debug\HYItest.exe.config
+C:\Users\xyz\source\repos\HYItest\HYItest\bin\Debug\HYItest.exe
+C:\Users\xyz\source\repos\HYItest\HYItest\bin\Debug\HYItest.pdb
+C:\Users\xyz\source\repos\HYItest\HYItest\obj\Debug\HYItest.csproj.AssemblyReference.cache
+C:\Users\xyz\source\repos\HYItest\HYItest\obj\Debug\HYItest.Form1.resources
+C:\Users\xyz\source\repos\HYItest\HYItest\obj\Debug\HYItest.Properties.Resources.resources
+C:\Users\xyz\source\repos\HYItest\HYItest\obj\Debug\HYItest.csproj.GenerateResource.cache
+C:\Users\xyz\source\repos\HYItest\HYItest\obj\Debug\HYItest.csproj.CoreCompileInputs.cache
+C:\Users\xyz\source\repos\HYItest\HYItest\obj\Debug\HYItest.exe
+C:\Users\xyz\source\repos\HYItest\HYItest\obj\Debug\HYItest.pdb

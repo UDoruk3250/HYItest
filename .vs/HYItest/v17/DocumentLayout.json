@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xyz\\source\\repos\\HYItest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{139AED13-EC1E-415F-986C-366D2F3BFBE4}|HYItest\\HYItest.csproj|c:\\users\\xyz\\source\\repos\\hyitest\\hyitest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139AED13-EC1E-415F-986C-366D2F3BFBE4}|HYItest\\HYItest.csproj|solutionrelative:hyitest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139AED13-EC1E-415F-986C-366D2F3BFBE4}|HYItest\\HYItest.csproj|C:\\Users\\xyz\\source\\repos\\HYItest\\hyitest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{139AED13-EC1E-415F-986C-366D2F3BFBE4}|HYItest\\HYItest.csproj|solutionrelative:hyitest\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139AED13-EC1E-415F-986C-366D2F3BFBE4}|HYItest\\HYItest.csproj|C:\\Users\\xyz\\source\\repos\\HYItest\\hyitest\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{139AED13-EC1E-415F-986C-366D2F3BFBE4}|HYItest\\HYItest.csproj|solutionrelative:hyitest\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{139AED13-EC1E-415F-986C-366D2F3BFBE4}|HYItest\\HYItest.csproj|C:\\Users\\xyz\\source\\repos\\HYItest\\hyitest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{139AED13-EC1E-415F-986C-366D2F3BFBE4}|HYItest\\HYItest.csproj|solutionrelative:hyitest\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\xyz\\source\\repos\\HYItest\\HYItest\\Form1.resx",
+              "RelativeDocumentMoniker": "HYItest\\Form1.resx",
+              "ToolTip": "C:\\Users\\xyz\\source\\repos\\HYItest\\HYItest\\Form1.resx",
+              "RelativeToolTip": "HYItest\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-04T20:10:06.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\xyz\\source\\repos\\HYItest\\HYItest\\Form1.cs",
+              "RelativeDocumentMoniker": "HYItest\\Form1.cs",
+              "ToolTip": "C:\\Users\\xyz\\source\\repos\\HYItest\\HYItest\\Form1.cs [Design]",
+              "RelativeToolTip": "HYItest\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:57:05.551Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\xyz\\source\\repos\\HYItest\\HYItest\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "HYItest\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\xyz\\source\\repos\\HYItest\\HYItest\\Form1.Designer.cs",
+              "RelativeToolTip": "HYItest\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T07:11:31.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\xyz\\source\\repos\\HYItest\\HYItest\\Form1.cs",
+              "RelativeDocumentMoniker": "HYItest\\Form1.cs",
+              "ToolTip": "C:\\Users\\xyz\\source\\repos\\HYItest\\HYItest\\Form1.cs",
+              "RelativeToolTip": "HYItest\\Form1.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAYwDoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T06:59:11.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
