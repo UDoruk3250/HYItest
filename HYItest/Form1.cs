@@ -55,8 +55,8 @@ namespace HYItest
             //angle.Text = a[11];
             //status.Text = a[12];
             //crc.Text = a[13];
-            float[] x = new float[78];
-            for(int i=0;)
+            byte[] buffer = System.Text.Encoding.ASCII.GetBytes(data);
+            int[] ints = new int[]
 
         }
 
